@@ -1,0 +1,33 @@
+﻿version: '3.8'
+
+services:
+  db:
+    image: postgres
+    container_name: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: gallo_db
+    volumes:
+      - ./sql-scripts:/docker-entrypoint-initdb.d
+    ports:
+      - 5432:5432
+    
+  postgres_admin:
+    container_name: postgres_admin
+    image: "dpage/pgadmin4"
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 9000:80
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=postgres@example.com
+      - PGADMIN_DEFAULT_PASSWORD=password
+
+volumes:
+  db-data:
+
+networks:
+  ecommerce-network:
+    driver: bridge

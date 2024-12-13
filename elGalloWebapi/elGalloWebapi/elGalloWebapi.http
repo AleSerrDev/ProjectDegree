@@ -1,0 +1,6 @@
+@elGalloWebapi_HostAddress = http://localhost:5208
+
+GET {{elGalloWebapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
