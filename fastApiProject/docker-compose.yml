@@ -1,0 +1,29 @@
+version: '4.7.0'
+
+services:
+  typesense:
+    image: typesense/typesense:0.21.0
+    restart: on-failure
+    ports:
+      - "8108:8108"
+    volumes:
+      - ./typesense-data:/data
+    command: '--data-dir /data --api-key=xyz --enable-cors'
+    networks:
+      - app-network
+
+  app:
+    build: .
+    restart: always
+    ports:
+      - "8000:8000"
+    depends_on:
+      - typesense
+    environment:
+      - TYPESENSE_API_KEY=xyz
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

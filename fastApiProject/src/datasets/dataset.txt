@@ -1,0 +1,255 @@
+Consulta: ¿Cuánto cuesta el iPhone trece?
+Respuesta: El iPhone 13 cuesta $999.99. Puedes encontrarlo en la Tienda de Electrónica.
+
+Consulta: ¿Tienen teles disponibles?
+Respuesta: Estos son algunos televisores disponibles:
+1. Samsung 50" 4K TV - $499.99 - Tienda de Electrónica
+2. LG 55" OLED TV - $899.99 - Tienda de Electrónica
+
+Consulta: ¿Dónde consigo una lavadora?
+Respuesta: Puedes comprar una lavadora LG Lavadora 15kg por $699.99 en la Tienda de Electrodomésticos.
+
+Consulta: ¿Hay Galaxy S21 en stock?
+Respuesta: Sí, el Samsung Galaxy S21 está disponible por $799.99 en la Tienda de Electrónica.
+
+Consulta: ¿Qué laptops tienen?
+Respuesta: Estas son algunas de las computadoras en venta:
+1. MacBook Air - $1199.99 - Tienda de Computadoras
+2. Dell XPS 13 - $1099.99 - Tienda de Computadoras
+3. HP Spectre x360 - $1299.99 - Tienda de Computadoras
+
+Consulta: Quiero un aparato de sonido. ¿Qué me recomiendas?
+Respuesta: Te recomiendo las siguientes opciones de audio:
+1. Bocina JBL Flip 5 - $99.99 - Tienda de Audio y Video
+2. Bocinas Sony 5.1 - $299.99 - Tienda de Audio y Video
+3. Sonos One SL - $179.99 - Tienda de Audio y Video
+
+Consulta: ¿Qué precio tiene el PS5?
+Respuesta: El Sony PlayStation 5 cuesta $499.99 y está disponible en la Tienda de Computadoras.
+
+Consulta: ¿Cuáles son los mejores celulares que tienen?
+Respuesta: Estos son algunos de los mejores teléfonos:
+1. iPhone 13 - $999.99 - Tienda de Electrónica
+2. Samsung Galaxy S21 - $799.99 - Tienda de Electrónica
+3. Google Pixel 6 - $599.99 - Tienda de Electrónica
+4. Xiaomi Mi 11 - $699.99 - Tienda de Electrónica
+
+Consulta: Necesito un monitor para mi compu.
+Respuesta: Puedes adquirir el Monitor Samsung 32" 4K por $399.99 en la Tienda de Computadoras.
+
+Consulta: ¿Tienen cafeteras?
+Respuesta: Sí, tenemos la Cafetera Nespresso Vertuo disponible por $199.99 en la Tienda de Electrodomésticos.
+
+Consulta: Busco una laptop para juegos.
+Respuesta: Te recomiendo la Asus ROG Gaming Laptop por $1799.99 en la Tienda de Computadoras.
+
+Consulta: ¿Hay audífonos que cancelen ruido?
+Respuesta: Sí, los auriculares Sony WH-1000XM4 con cancelación de ruido están disponibles por $349.99 en la Tienda de Audio y Video.
+
+Consulta: ¿Qué frigos tienen?
+Respuesta: Tenemos el Refrigerador LG 500L por $1199.99 en la Tienda de Electrodomésticos.
+
+Consulta: ¿Tienen un parlante inteligente?
+Respuesta: Sí, el Amazon Echo Studio está disponible por $199.99 en la Tienda de Audio y Video.
+
+Consulta: ¿Dónde puedo comprar una aspiradora?
+Respuesta: Puedes comprar la Aspiradora Dyson V11 por $499.99 en la Tienda de Electrodomésticos.
+
+Consulta: Quiero ver sofás disponibles.
+Respuesta: Puedes encontrar un Sofá de 3 plazas por $299.99 en la Tienda de Muebles.
+
+Consulta: ¿Qué relojes inteligentes tienen?
+Respuesta: Tenemos el Apple Watch Series 7 disponible por $399.99 en la Tienda de Electrónica.
+
+Consulta: ¿Cuánto cuesta el Nespresso Vertuo?
+Respuesta: El Nespresso Vertuo cuesta $199.99 y está disponible en la Tienda de Electrodomésticos.
+
+Consulta: ¿Cuánto vale la tele LG 55 pulgadas?
+Respuesta: El televisor LG 55" OLED TV cuesta $899.99 en la Tienda de Electrónica.
+
+Consulta: Quiero saber el precio de la cafetera Philips Espresso.
+Respuesta: La cafetera Philips Espresso cuesta $399.99 y está disponible en la tienda Cafe Bliss.
+
+Consulta: ¿Tienen la Switch de Nintendo?
+Respuesta: Sí, la consola Nintendo Switch está disponible por $299.99 en la tienda The Toy Chest.
+
+Consulta: Muéstrame audífonos baratos.
+Respuesta: Estos son algunos auriculares disponibles:
+1. Auriculares Sony WH-CH510 - $79.99 - Tienda Fashion Fusion
+2. Altavoz Amazon Echo Dot - $49.99 - Tienda Pet Palace
+
+Consulta: ¿Cuál es el precio de la cinta para correr Proform?
+Respuesta: La cinta de correr Proform cuesta $999.99 y está disponible en la tienda Fitness Zone.
+
+Consulta: Necesito una aspiradora.
+Respuesta: Te recomiendo la Aspiradora Dyson V11, que está disponible por $499.99 en la Tienda de Electrodomésticos.
+
+Consulta: ¿Tienen tabletas disponibles?
+Respuesta: Estas son algunas de las tabletas disponibles:
+1. iPad Mini - $499.99 - Tienda Book Haven
+2. iPad Pro 11" - $799.99 - Tienda Fashion Fusion
+
+Consulta: ¿Cuánto cuesta la licuadora Oster?
+Respuesta: La licuadora Oster de 10 velocidades cuesta $99.99 y está disponible en la tienda Cafe Bliss.
+
+Consulta: Busco una computadora de uso empresarial.
+Respuesta: Te recomiendo la Laptop Lenovo ThinkPad, que está disponible por $1399.99 en la tienda Fashion Fusion.
+
+Consulta: ¿Dónde puedo comprar un altavoz Bose?
+Respuesta: Puedes encontrar el altavoz Bose SoundLink por $179.99 en la tienda Cafe Bliss.
+
+Consulta: Necesito una licuadora potente.
+Respuesta: Puedes adquirir la Licuadora Ninja Pro por $129.99 en la tienda Nature's Basket.
+
+Consulta: ¿Cuánto cuesta el PlayStation 5?
+Respuesta: El Sony PlayStation 5 cuesta $499.99 y está disponible en la tienda Tech Savvy.
+
+Consulta: Quiero una laptop para programar.
+Respuesta: Te recomiendo la MacBook Air 2022, disponible por $1199.99 en la tienda Book Haven.
+
+Consulta: ¿Cuáles son las opciones de audio para deporte?
+Respuesta: Puedes considerar los Audífonos Deportivos Beats por $199.99, disponibles en la tienda Fitness Zone.
+
+Consulta: ¿Dónde venden refrigeradores inteligentes?
+Respuesta: El Refrigerador LG Smart 500L está disponible por $1199.99 en la tienda Nature’s Basket.
+
+Consulta: Muéstrame relojes y accesorios inteligentes.
+Respuesta: Tenemos el Apple Watch Series 7 disponible por $399.99 en la Tienda de Electrónica.
+
+Consulta: ¿Qué tipo de secadores de cabello tienen?
+Respuesta: Tenemos el Secador de Cabello Dyson Supersonic disponible por $399.99 en la tienda Beauty Boutique.
+
+Consulta: Necesito una cafetera para cappuccino.
+Respuesta: Te recomiendo la Cafetera Philips Espresso, disponible por $399.99 en la tienda Cafe Bliss.
+
+Consulta: ¿Hay parlantes Harman Kardon?
+Respuesta: Sí, las Bocinas Harman Kardon están disponibles por $299.99 en la tienda Home Essentials.
+
+Consulta: ¿Cuál es el precio de la bici estática NordicTrack?
+Respuesta: La Bicicleta Estática NordicTrack cuesta $799.99 y está disponible en la tienda Fitness Zone.
+
+Consulta: Quiero un dispositivo para monitorear a mis mascotas.
+Respuesta: Puedes adquirir la Cámara de Seguridad PetCam por $249.99 en la tienda Pet Palace.
+
+Consulta: ¿Cuánto vale la plancha de cabello Remington?
+Respuesta: La Plancha de Cabello Remington cuesta $69.99 y está disponible en la tienda Beauty Boutique.
+
+Consulta: Busco una computadora para gaming.
+Respuesta: Te recomiendo la Asus ROG Gaming Laptop, que está disponible por $1799.99 en la tienda Tech Savvy.
+
+Consulta: ¿Tienen sistemas de sonido Bluetooth?
+Respuesta: Sí, tenemos las Bocinas Harman Kardon por $299.99 en la tienda Home Essentials.
+
+Consulta: Necesito una licuadora de alta calidad.
+Respuesta: Puedes adquirir la Licuadora KitchenAid Pro por $199.99 en la tienda Home Essentials.
+
+Consulta: ¿Cuánto cuesta el refrigerador Samsung French Door?
+Respuesta: El refrigerador Samsung French Door cuesta $1899.99 y está disponible en la tienda Home Essentials.
+
+Consulta: ¿Qué teles curvas tienen?
+Respuesta: Tenemos el Monitor Samsung 32" Curvo por $399.99 en la tienda Tech Savvy.
+
+Consulta: Muéstrame audífonos de la marca Beats.
+Respuesta: Tenemos los Auriculares Beats Studio disponibles por $299.99 en la tienda Beauty Boutique.
+
+Consulta: ¿Cuáles son las mejores opciones para consolas de videojuegos?
+Respuesta: Estas son algunas consolas de videojuegos disponibles:
+1. Sony PS5 - $499.99 - Tienda Tech Savvy
+2. Nintendo Switch - $299.99 - Tienda The Toy Chest
+3. Xbox Series X - $499.99 - Tienda The Toy Chest
+
+Consulta: Busco una aspiradora potente.
+Respuesta: Te recomiendo la Aspiradora Dyson V11, disponible por $499.99 en la tienda Pet Palace.
+
+Consulta: Necesito altavoces portátiles.
+Respuesta: Te recomiendo el Altavoz Bose SoundLink, que está disponible por $179.99 en la tienda Cafe Bliss.
+
+Consulta: Quiero un altavoz con buen sonido.
+Respuesta: Te recomiendo el Altavoz Sonos One, disponible por $199.99 en la tienda Nature's Basket.
+
+Consulta: ¿Tienen lavadoras grandes?
+Respuesta: Sí, tenemos la Lavadora LG 20kg por $799.99 disponible en la tienda de Electrodomésticos.
+
+Consulta: Busco una computadora ligera para viajar.
+Respuesta: La MacBook Air 2022 es una excelente opción por $1199.99 en la tienda Book Haven.
+
+Consulta: ¿Cuáles son los auriculares más económicos?
+Respuesta: Los Auriculares Sony WH-CH510 están disponibles por $79.99 en la tienda Fashion Fusion.
+
+Consulta: Necesito una tableta potente para diseño.
+Respuesta: Te recomiendo el iPad Pro 11" por $799.99 disponible en la tienda Fashion Fusion.
+
+Consulta: ¿Hay aspiradoras robot?
+Respuesta: Sí, la Aspiradora Robot Roomba i7+ está disponible por $699.99 en la tienda de Electrodomésticos.
+
+Consulta: Busco un reloj para hacer deporte.
+Respuesta: El Apple Watch Series 7 es ideal para hacer deporte, disponible por $399.99 en la Tienda de Electrónica.
+
+Consulta: Necesito un secador de pelo bueno.
+Respuesta: El Secador de Cabello Dyson Supersonic cuesta $399.99 y está disponible en la tienda Beauty Boutique.
+
+Consulta: ¿Tienen consolas portátiles?
+Respuesta: Sí, la Nintendo Switch está disponible por $299.99 en la tienda The Toy Chest.
+
+Consulta: Quiero un frigorífico con dispensador de agua.
+Respuesta: El Refrigerador LG Smart 500L con dispensador de agua cuesta $1199.99 y está disponible en la tienda Nature's Basket.
+
+Consulta: ¿Cuánto cuesta la cinta de correr plegable?
+Respuesta: La Cinta de Correr Proform cuesta $999.99 y está disponible en la tienda Fitness Zone.
+
+Consulta: Busco un altavoz para exterior.
+Respuesta: Te recomiendo la Bocina JBL Flip 5, disponible por $99.99 en la tienda de Audio y Video.
+
+Consulta: Muéstrame celulares de la tienda Gadget Galaxy.
+Respuesta: Estos son algunos celulares disponibles en la tienda Gadget Galaxy:
+1. iPhone 13 - $999.99
+2. Samsung Galaxy S21 - $799.99
+
+Consulta: Quiero ver tabletas de Book Haven.
+Respuesta: Aquí tienes algunas tabletas de la tienda Book Haven:
+1. iPad Mini - $499.99
+2. MacBook Air 2022 - $1199.99
+
+Consulta: Necesito consolas de videojuegos.
+Respuesta: Estas son algunas consolas de videojuegos disponibles:
+1. Nintendo Switch - $299.99 - Tienda The Toy Chest
+2. Xbox Series X - $499.99 - Tienda The Toy Chest
+3. Sony PS5 - $499.99 - Tienda Tech Savvy
+
+Consulta: Muéstrame productos de audio de Cafe Bliss.
+Respuesta: Estos son algunos productos de audio disponibles en la tienda Cafe Bliss:
+1. Altavoz Bose SoundLink - $179.99
+2. Licuadora Oster 10 velocidades (Audio y Video) - $99.99
+
+Consulta: Busco una cafetera para el hogar.
+Respuesta: Aquí tienes algunas opciones de cafeteras disponibles:
+1. Cafetera Philips Espresso - $399.99 - Tienda Cafe Bliss
+2. Cafetera Nespresso Vertuo - $199.99 - Tienda de Electrodomésticos
+
+Consulta: ¿Qué electrodomésticos tienen en Nature’s Basket?
+Respuesta: Aquí tienes algunos electrodomésticos disponibles en la tienda Nature’s Basket:
+1. Refrigerador LG Smart 500L - $1199.99
+2. Licuadora Ninja Pro - $129.99
+
+Consulta: Muéstrame laptops de la tienda Book Haven.
+Respuesta: Estas son algunas laptops disponibles en la tienda Book Haven:
+1. MacBook Air 2022 - $1199.99
+2. Dell Inspiron 14 - $899.99
+
+Consulta: ¿Qué productos tienen para deporte en Fitness Zone?
+Respuesta: Estos son algunos productos para deporte disponibles en la tienda Fitness Zone:
+1. Cinta de Correr Proform - $999.99
+2. Bicicleta Estática NordicTrack - $799.99
+
+Consulta: ¿Tienen refrigeradores en Home Essentials?
+Respuesta: Sí, tenemos el Refrigerador Samsung French Door disponible por $1899.99 en la tienda Home Essentials.
+
+Consulta: Quiero ver auriculares con cancelación de ruido.
+Respuesta: Estos son algunos auriculares con cancelación de ruido:
+1. Sony WH-1000XM4 - $349.99 - Tienda de Audio y Video
+2. Auriculares Beats Studio - $299.99 - Tienda Beauty Boutique
+
+Consulta: ¿Cuáles son los productos de audio disponibles en Tech Savvy?
+Respuesta: Estos son algunos productos de audio disponibles en la tienda Tech Savvy:
+1. Sony PS5 - $499.99 (consola de videojuegos con capacidad de audio)
+2. Monitor Samsung 32" Curvo (con altavoces integrados) - $399.99
