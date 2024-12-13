@@ -1,0 +1,6 @@
+@SerchMapServiceGatway_HostAddress = http://localhost:5139
+
+GET {{SerchMapServiceGatway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

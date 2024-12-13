@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerchMapServiceGatway", "SerchMapServiceGatway\SerchMapServiceGatway.csproj", "{D3385B0C-C44C-4DFF-9170-1227EE34723F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3385B0C-C44C-4DFF-9170-1227EE34723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3385B0C-C44C-4DFF-9170-1227EE34723F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3385B0C-C44C-4DFF-9170-1227EE34723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3385B0C-C44C-4DFF-9170-1227EE34723F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B80354-6CE6-4093-B15B-FE11ECEBE77A}
+	EndGlobalSection
+EndGlobal
