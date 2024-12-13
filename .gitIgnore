@@ -34,7 +34,8 @@ build/
 *.log
 *.log.*
 typesense-data/meta/LOG*
-
+./LOG*
+./snapshot*
 
 # Node.js (React)
 node_modules/
