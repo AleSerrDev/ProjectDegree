@@ -55,7 +55,7 @@ def fine_tune_gpt2():
     if tokenizer.pad_token is None:
         tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
 
-    dataset = load_dataset('text', data_files={'train': 'C:/Projects/ElGalloSearch/fastApiProject/dataset.txt'})
+    dataset = load_dataset('text', data_files={'train': 'dataset.txt'})
 
     def preprocess_function(examples):
         inputs = tokenizer(examples['text'], truncation=True, padding="max_length", max_length=128)
@@ -371,10 +371,10 @@ async def search_with_map(query: str, request: Request):
                                     },
                                     # Propiedades de estilo para el color rojo
                                     "style": {
-                                        "fill": "#FF0000",  # Color de relleno rojo
-                                        "stroke": "#000000",  # Color del borde negro
-                                        "fill-opacity": 0.6,  # Opacidad del relleno
-                                        "stroke-width": 2  # Ancho del borde
+                                        "fill": "#FF0000",
+                                        "stroke": "#000000",
+                                        "fill-opacity": 0.6,
+                                        "stroke-width": 2
                                     }
                                 }
                             }
